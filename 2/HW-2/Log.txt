@@ -1,0 +1,90 @@
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: start sort
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 3 element = 8
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 4 element = 55
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 55 and 7
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 5 element = 55
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 6 element = 443
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 443 and 32
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 7 element = 443
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 443 and 9
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 3 element = 8
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 8 and 7
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 4 element = 8
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 5 element = 55
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 55 and 32
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 6 element = 55
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 55 and 9
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 3 element = 7
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 4 element = 8
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 5 element = 32
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: swap 32 and 9
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 3 element = 7
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 4 element = 8
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 3 element = 7
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 2 element = 5
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 1 element = 2
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: check 0 element = 1
+июн. 18, 2023 9:32:43 PM Task2 main
+INFO: end sort
